@@ -64,7 +64,7 @@ This project involves analyzing ride data from Ola for July 2024, using **Power 
 ## **How to Explore the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ola-data-analysis.git
+   git clone https://github.com//ola-data-analysis.git
    ```
 2. Review the SQL scripts in the `/sql` folder.  
 3. Open the Power BI dashboards in the `/powerbi` folder.  
@@ -81,5 +81,5 @@ This project involves analyzing ride data from Ola for July 2024, using **Power 
 
 ## **Connect with Me**
 If you have any questions or would like to collaborate on data analytics projects, feel free to reach out:  
-📧 **Email**: your.email@example.com  
-🌐 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 **Email**: mohammadalisk050@gmail.com
+🌐 **LinkedIn**: https://www.linkedin.com/in/mohammad-ali-sk-316508240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU0d5hE7UTOe2Za4zwwVKTQ%3D%3D 
